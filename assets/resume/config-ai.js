@@ -59,6 +59,12 @@ const cvData = {
     // Certifications
     certifications: [
         {
+            degree: "AWS Certified Solutions Architect Associate",
+            institution: "Amazon Web Services",
+            location: "Online",
+            period: "Date issued: June 03, 2026"
+        },
+        {
             degree: "AWS Certified AI Practitioner",
             institution: "Amazon Web Services",
             location: "Online",
@@ -169,6 +175,7 @@ const cvData = {
 
     // Additional Certifications
     additional_certifications: [
+        "Udacity - AWS AI Practitioner Challenge",
         "Datapath – Machine Learning Engineer",
         "Datacamp – Deep Learning with PyTorch",
         "Datacamp – Transformer Models with PyTorch",

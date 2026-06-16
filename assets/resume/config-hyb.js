@@ -59,6 +59,12 @@ const cvData = {
     // Certifications
     certifications: [
         {
+            degree: "AWS Certified Solutions Architect Associate",
+            institution: "Amazon Web Services",
+            location: "Online",
+            period: "Date issued: June 03, 2026"
+        },
+        {
             degree: "AWS Certified Cloud Practitioner",
             institution: "Amazon Web Services",
             location: "Online",
@@ -164,7 +170,7 @@ const cvData = {
             description: "Deployed a secure, globally-distributed static website on AWS using IaC (CloudFormation), implementing CDN caching, WAF edge protection, origin access control, and observability via CloudWatch, achieving low-latency delivery to US, CA, PE.",
             technologies: "AWS S3, CloudFront, AWS WAF, CloudFormation, CloudWatch, JavaScript, HTML, CSS"
         },
-                {
+        {
             name: "Serene Bot – Serverless Automation on AWS",
             description: "Developed a serverless automation bot deployed on AWS, leveraging managed cloud services to execute event-driven workflows. Implemented secure IAM roles and permissions, automated execution logic, and cloud-based deployment for reliable and scalable operation. Focused on automation, cloud integration, and maintainable infrastructure.",
             technologies: "AWS Lambda, IAM, Python, Serverless Architecture, Cloud Automation, Event-Driven Systems"
@@ -173,6 +179,7 @@ const cvData = {
 
     // Additional Certifications
     additional_certifications: [
+        "Udacity - AWS AI Practitioner Challenge",
         "CTIC UNI - AWS Architect 1",
         "AWS Academy Graduate - Machine Learning Foundations",
         "AWS Educate -  Introduction to Generative AI",
