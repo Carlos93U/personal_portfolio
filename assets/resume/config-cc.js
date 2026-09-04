@@ -59,22 +59,28 @@ const cvData = {
     // Certifications
     certifications: [
         {
+            degree: "AWS Certified Machine Learning Associate",
+            institution: "Amazon Web Services",
+            location: "Online",
+            period: "Date issued: August 31, 2026"
+        },        
+        {
             degree: "AWS Certified Solutions Architect Associate",
             institution: "Amazon Web Services",
             location: "Online",
             period: "Date issued: June 03, 2026"
         },
         {
-            degree: "AWS Certified Cloud Practitioner",
-            institution: "Amazon Web Services",
-            location: "Online",
-            period: "Date issued: September 09, 2025"
-        },
-        {
             degree: "AWS Certified AI Practitioner",
             institution: "Amazon Web Services",
             location: "Online",
             period: "Date issued: October 01, 2025"
+        },        
+        {
+            degree: "AWS Certified Cloud Practitioner",
+            institution: "Amazon Web Services",
+            location: "Online",
+            period: "Date issued: September 09, 2025"
         }
     ],
 
